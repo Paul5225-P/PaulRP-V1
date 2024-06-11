@@ -1,0 +1,12 @@
+Bonjour ;),
+Vous êtes ici sur le programme Python Paul-RP, pour l'utiliser, c'est plutôt simple...
+
+1) Vous devez avoir Python 3 installer sur votre PC (MacOS conseiller...)
+
+2) Dirigé vous avec le terminal en utilisant la commande "cd" jusqu'au dossier "Projet Paul-RP" puis rentrez dedans...
+
+3) Une fois dedans, dans votre terminal, rentrez la commande "python3 paul-rp.py"
+
+4) Le programme	vas se lancer puis vous n'aurez qu'à jouer ^^
+
+PS: Si vous rencontrez le moindre bug, contactez moi via Discord : paul5225_
