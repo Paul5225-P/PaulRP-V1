@@ -1,2 +1,2 @@
-# PaulRP-V1
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Segoe+UI+Black&duration=3000&random=false&width=435&lines=Hi%2C;It's+PaulRP V1,+French+RP)
 Un RP non comparable aux autres...
